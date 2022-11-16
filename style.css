@@ -160,15 +160,15 @@ main {
   }
 
   .picnic::before {
-    background-image: url("/backgrounds/picnic.svg");
+    background-image: url("backgrounds/picnic.svg");
   }
 
   .cafe::before {
-    background-image: url("/backgrounds/cafe.svg");
+    background-image: url("backgrounds/cafe.svg");
   }
 
   .kitchen::before {
-    background-image: url("/backgrounds/kitchen.svg");
+    background-image: url("backgrounds/kitchen.svg");
   }
   
  .titles {
@@ -224,7 +224,7 @@ main {
   justify-content: center;
   align-items: center;
   background-position: center center;
-  background-image: url("/misc/lightboxbg.svg");
+  background-image: url("misc/lightboxbg.svg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -233,7 +233,7 @@ main {
   width: 75%;
   height: 75%;
   background-position: center center;
-  background-image: url("/misc/lightboxfront.svg");
+  background-image: url("misc/lightboxfront.svg");
   background-size: contain;
   background-repeat: no-repeat;
   position: relative;
@@ -288,7 +288,7 @@ main {
     height: calc(2px + var(--header-desktop-height));
     padding: 25px 40px;
 /*     background: #C0D8EC; */
-    background-image: url("/misc/wave.png");
+    background-image: url("misc/wave.png");
     background-size: 100% 100%;
 /*     background-position: center bottom; */
     width: calc(100vw - 100px);
@@ -433,15 +433,15 @@ main {
   }
 
   .picnic::before {
-    background-image: url("/backgrounds/picnic.svg");
+    background-image: url("backgrounds/picnic.svg");
   }
 
   .cafe::before {
-    background-image: url("/backgrounds/cafe.svg");
+    background-image: url("backgrounds/cafe.svg");
   }
 
   .kitchen::before {
-    background-image: url("/backgrounds/kitchen.svg");
+    background-image: url("backgrounds/kitchen.svg");
   }
   
 }
