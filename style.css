@@ -22,7 +22,7 @@ html, body {
 
 
 .bg-images{
-  background-image: url('/images/topwave.svg'), url('/images/bottomwave.svg');
+  background-image: url('images/topwave.svg'), url('images/bottomwave.svg');
   background-position: top, bottom;
 }
 
